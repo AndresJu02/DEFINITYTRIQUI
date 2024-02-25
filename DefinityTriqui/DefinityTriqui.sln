@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefinityTriqui", "DefinityTriqui\DefinityTriqui.csproj", "{1BF46EDA-4FF6-40FC-85DD-30C2E4823522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BF46EDA-4FF6-40FC-85DD-30C2E4823522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF46EDA-4FF6-40FC-85DD-30C2E4823522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF46EDA-4FF6-40FC-85DD-30C2E4823522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF46EDA-4FF6-40FC-85DD-30C2E4823522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7D18F42-D25C-48D1-B3B6-6C06FDD594CC}
+	EndGlobalSection
+EndGlobal

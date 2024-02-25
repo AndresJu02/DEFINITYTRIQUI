@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\DefinityTriqui\DefinityTriqui\obj\Debug\DefinityTriqui.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\DefinityTriqui\DefinityTriqui\obj\Debug\DefinityTriqui.Form1.resources
+C:\Users\USUARIO\source\repos\DefinityTriqui\DefinityTriqui\obj\Debug\Triqui.triqui.resources
+C:\Users\USUARIO\source\repos\DefinityTriqui\DefinityTriqui\obj\Debug\DefinityTriqui.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\DefinityTriqui\DefinityTriqui\obj\Debug\DefinityTriqui.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\DefinityTriqui\DefinityTriqui\obj\Debug\DefinityTriqui.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\DefinityTriqui\DefinityTriqui\bin\Debug\DefinityTriqui.exe.config
+C:\Users\USUARIO\source\repos\DefinityTriqui\DefinityTriqui\bin\Debug\DefinityTriqui.exe
+C:\Users\USUARIO\source\repos\DefinityTriqui\DefinityTriqui\bin\Debug\DefinityTriqui.pdb
+C:\Users\USUARIO\source\repos\DefinityTriqui\DefinityTriqui\obj\Debug\DefinityTriqui.exe
+C:\Users\USUARIO\source\repos\DefinityTriqui\DefinityTriqui\obj\Debug\DefinityTriqui.pdb
+C:\Users\USUARIO\source\repos\DefinityTriqui\DefinityTriqui\obj\Debug\DefinityTriqui.IAtriqui.resources
